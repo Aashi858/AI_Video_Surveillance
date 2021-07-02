@@ -1,0 +1,49 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin-top: 0%;
+    font-family: 'Dosis', sans-serif;
+    height: 10%;
+    font-size: 30px;
+}
+#start{
+    background: linear-gradient(lightgreen,limegreen);
+    border-radius: 10px;
+    width: 100px;
+    height: 5%;
+    color: mintcream;
+    font-family: Georgia, serif;
+}
+#no_objects{
+    background: linear-gradient(khaki,yellow);
+    border-radius: 10px;
+    padding: 5px;
+    font-family: Georgia, serif;
+}
+#no_objects{
+    background: linear-gradient(khaki,yellow);
+    border-radius: 10px;
+    padding: 5px;
+    font-family: Georgia, serif;
+}
+#detect{
+    background: linear-gradient(deepskyblue,royalblue);
+    border-radius: 10px;
+    padding: 5px;
+    font-family: Georgia, serif;
+}
+canvas{
+    background-color: mintcream;
+    border-radius: 100px;
+    box-shadow: 5px 5px 8px slategrey;
+}
+#footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: paleturquoise;
+}
