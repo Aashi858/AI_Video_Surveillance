@@ -36,9 +36,9 @@ body{
     font-family: Georgia, serif;
 }
 canvas{
-    background-color: mintcream;
-    border-radius: 100px;
-    box-shadow: 5px 5px 8px slategrey;
+    border-color : mintcream;
+    border-width : 5px;
+    box-shadow: 5px 5px 8px white;
 }
 #footer{
     width: 100%;
